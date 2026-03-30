@@ -8,7 +8,7 @@ const Card: React.FC = () => {
         I am a passionate React Developer with a strong background in building scalable and robust web applications from database to UI using React, Node.js, and PostgreSQL. Focused on crafting scalable user experiences that suits the needs of your business.
       </p>
       <a
-  href="https://github.com/YOUR_USERNAME"
+  href="https://github.com/HabibUsman64"
   target="_blank"
   rel="noopener noreferrer"
   className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 inline-block"
