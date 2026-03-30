@@ -7,9 +7,15 @@ const Card: React.FC = () => {
       <p className="text-gray-600 mb-4">
         I am a passionate React Developer with a strong background in building scalable and robust web applications from database to UI using React, Node.js, and PostgreSQL. Focused on crafting scalable user experiences that suits the needs of your business.
       </p>
-      <button className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">
-        Connect with Habib
-      </button>
+      <a
+  href="https://github.com/YOUR_USERNAME"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 inline-block"
+>
+  Visit My GitHub
+</a>
+
     </div>
   );
 };
